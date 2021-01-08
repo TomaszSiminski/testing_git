@@ -1,5 +1,4 @@
 Add for file something
-Add for next commit - commit number 3
 
 See 'git help <command>' to read about a specific subcommand
 
